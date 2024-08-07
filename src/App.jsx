@@ -44,7 +44,7 @@ const App = () => {
       <h1 className='title'>Weather Dashboard</h1>
     <div className="input-group mb-5">
       
-      <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="enter city" 
+      <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter city" 
       value={text} onChange={handlechange}></input>
       <button  type="button" class="btn btn-dark" onClick={search}>Search</button>
     </div>
