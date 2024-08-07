@@ -1,0 +1,22 @@
+#root{
+  margin: 0;
+  background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 2%, rgba(37,168,173,1) 47%, rgba(0,147,177,1) 100%);
+}
+.title{
+  font-family: "Cedarville Cursive", cursive;
+  text-align: center;
+  font-style: normal;
+  font-weight: bolder;
+}
+.display{
+  text-align: center;
+}
+.title-show{
+  font-weight: bolder;
+  font-size: 50px;
+}
+p{
+  font-family:'Times New Roman', Times, serif;
+  font-size: large;
+}
