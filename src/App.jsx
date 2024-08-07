@@ -40,7 +40,7 @@ const App = () => {
   
   return (
     
-    <div className='container w-50 p-5'>
+    <div className='container w-75 p-5'>
       <h1 className='title'>Weather Dashboard</h1>
     <div className="input-group mb-5">
       
